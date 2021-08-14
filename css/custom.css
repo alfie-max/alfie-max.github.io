@@ -1,0 +1,7 @@
+/* Add here all your CSS customizations */
+
+@media (max-width: 990px) {
+  .img-me{
+    width: 50%
+  }
+}
